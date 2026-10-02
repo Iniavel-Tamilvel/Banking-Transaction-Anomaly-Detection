@@ -1,0 +1,5 @@
+review_priority,transaction_count
+Normal,45000
+Medium Review,2500
+High Review,2000
+Critical Review,500

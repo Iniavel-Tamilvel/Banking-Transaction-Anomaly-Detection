@@ -1,0 +1,6 @@
+metric,value
+Precision,1.0
+Recall,1.0
+F1 Score,1.0
+Detected Anomalies,500.0
+Detected Anomaly Rate,1.0
